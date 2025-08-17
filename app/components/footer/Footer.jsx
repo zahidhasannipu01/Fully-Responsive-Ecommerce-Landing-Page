@@ -15,7 +15,7 @@ const Footer = () => {
     <div className="bg-[#F0F0F0] pt-36 lg:pt-40 pb-20 relative">
       <Subscription />
       <Container>
-        <div className="grid grid-cols-5 gap-10">
+        <div className="grid grid-cols-2 lg:grid-cols-5 gap-5 lg:gap-10 pt-5 lg:pt-0">
           <div>
             <Image src={Logo} alt="Main Logo" className="w-[150px] h-auto" />
             <h4 className="para text-balance text-black/40 pt-4">
