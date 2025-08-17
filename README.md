@@ -31,7 +31,7 @@ Clone the repo and run locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/zahidhasannipu01/Fully-Responsive-Ecommerce-Landing-Page.git
 
 # Navigate to project directory
 cd your-repo-name
