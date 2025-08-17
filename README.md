@@ -1,6 +1,6 @@
 # 🚀 Fully Responsive Landing Page Using Next.js
 
-![Cover Image]([./cover.png](https://ibb.co.com/SX2bCPV2))
+![Cover Image](https://i.postimg.cc/wjpfBgtR/Cover.png)
 
 A modern and fully responsive landing page built with **Next.js**, styled using **Tailwind CSS**, enhanced with **Swiper.js** for sliders, and smooth animations using **React Fast Marquee**.  
 
